@@ -1,0 +1,14 @@
+{
+  "name": "re-interpolated",
+  "version": "1.0.0",
+  "description": "Regex with comments and interpolation",
+  "main": "lib/re-interpolated.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Luke Channings",
+  "license": "ISC"
+}
